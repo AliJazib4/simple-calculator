@@ -1,0 +1,18 @@
+{
+  "name": "aj01-simple-calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator with Typescript, Node.jd and Inquirer.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Jazib",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
